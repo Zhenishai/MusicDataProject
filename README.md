@@ -102,7 +102,7 @@ http-server .
 
 ---
 
-##📖 Story
+##  📖 Story
 
 As a user,
 I want to select a user from a dropdown and view meaningful listening statistics,
