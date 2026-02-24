@@ -90,19 +90,8 @@ The project achieves **100% Lighthouse accessibility score**.
 
 ---
 
-## Running Locally
 
-Because ES modules are used, you must serve the project over HTTP.
-
-Example using `http-server`:
-
-```bash
-npm install -g http-server
-http-server .
-
----
-
-##  📖 Story
+ 📖 Story
 
 As a user,
 I want to select a user from a dropdown and view meaningful listening statistics,
